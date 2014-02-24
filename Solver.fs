@@ -1,7 +1,7 @@
 ﻿//
 // All source code herein is Copyright (C) 2014, Philip Davis
 //
-// "Robot Turtles" is a registered trademark, owned by Robot Turtles, LLC
+// Robot Turtles is among the trademarks of Robot Turtles LLC, used here by permission
 // Thanks to Dan Shapiro and all the Kickstarter backers for a great game.
 //
 
